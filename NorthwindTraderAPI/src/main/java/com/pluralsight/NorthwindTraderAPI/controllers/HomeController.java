@@ -1,4 +1,4 @@
-package com.pluralsight.NorthwindTraderAPI;
+package com.pluralsight.NorthwindTraderAPI.controllers;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
